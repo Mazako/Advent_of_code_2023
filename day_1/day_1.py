@@ -51,5 +51,6 @@ def part_2():
             total += int(arr[0] + arr[-1])
     return total
 
+
 print(part_1())
 print(part_2())
